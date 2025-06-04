@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="Chap6_Overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69299511"
+     inkscape:cx="514.43365"
+     inkscape:cy="619.7735"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="561.25984"
+       originy="396.85039"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="609.48594"
+       y="422.74169"
+       width="151.1811"
+       height="37.795276"
+       id="rect8" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="386.49382"
+       y="158.17475"
+       width="173.13408"
+       height="64.154892"
+       id="rect7" />
+    <rect
+       x="378.93477"
+       y="173.29287"
+       width="204.09448"
+       height="56.692915"
+       id="rect6" />
+    <rect
+       x="61.454461"
+       y="120.37948"
+       width="119.85234"
+       height="65.05628"
+       id="rect1" />
+    <symbol
+       id="FlowSymbols.svg:InputOutput">
+      <title
+         id="title3">Input/Output</title>
+      <desc
+         id="desc3">General input/output functions.</desc>
+      <path
+         d="m 35,35 h 100 l -20,80 H 15 Z"
+         style="stroke-width:2"
+         id="path3" />
+    </symbol>
+    <symbol
+       id="FlowSymbols.svg:PredefinedProcess">
+      <title
+         id="title27">Predefined Process</title>
+      <desc
+         id="desc27">A formally defined sub-process.</desc>
+      <rect
+         x="15"
+         y="35"
+         width="120"
+         height="80"
+         style="stroke-width:2"
+         id="rect27" />
+      <rect
+         x="35"
+         y="35"
+         width="80"
+         height="80"
+         style="stroke-width:2"
+         id="rect28" />
+    </symbol>
+    <symbol
+       id="FlowSymbols.svg:Process">
+      <title
+         id="title2">Process</title>
+      <desc
+         id="desc2">Any processing function.</desc>
+      <rect
+         x="15"
+         y="35"
+         width="120"
+         height="80"
+         style="stroke-width:2"
+         id="rect2" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="use1-4"
+       style="fill:#aaccee;stroke:#000000;stroke-width:1.20956;stroke-dasharray:none"
+       transform="matrix(0.41333327,0,0,0.26458333,95.259828,62.006655)"
+       inkscape:export-filename="chap6_overview.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <title
+         id="title1">Predefined Process</title>
+      <desc
+         id="desc1">A formally defined sub-process.</desc>
+      <rect
+         x="15"
+         y="35"
+         width="120"
+         height="80"
+         style="stroke-width:1.20956321;stroke-dasharray:none"
+         id="rect3" />
+      <rect
+         x="22.842535"
+         y="35"
+         width="104.31493"
+         height="80"
+         style="stroke-width:1.20956321;stroke-dasharray:none"
+         id="rect4" />
+    </g>
+    <path
+       style="fill:#aaccee;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.968516,92.43374 47.732285,71.26707 H 81.551134 L 74.787365,92.43374 Z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:2.82223px;line-height:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:justify;text-decoration-color:#000000;letter-spacing:0.264583px;word-spacing:0.529167px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#path1);shape-padding:0;display:inline;fill:none;stroke:#bfbfbf;stroke-width:1.88976;stroke-dasharray:7.55906, 15.1181"
+       y="0"
+       x="0"><tspan
+         x="47.619694"
+         y="73.921283"
+         id="tspan5"><tspan
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan1">
+</tspan></tspan><tspan
+         x="46.492378"
+         y="77.44907"
+         id="tspan31"><tspan
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan7">•</tspan><tspan
+           dx="0 0 0 0 0 0 -0.52916795 0.52916694 0 -0.52916723 0.52916694 0 0 0 0 0 0 0 -0.529167"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan8">corpus of rhythmic </tspan></tspan><tspan
+         x="45.365059"
+         y="80.976856"
+         id="tspan33"><tspan
+           dx="0 0 0 0 0 0 0 0 -0.52916771 0.52916718 0 0 0 0 0 0 0 0 0 0 -0.52916795"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan32">patterns (generated)
+</tspan></tspan><tspan
+         x="44.237743"
+         y="84.504642"
+         id="tspan36"><tspan
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan34">•</tspan><tspan
+           dx="0 0 0 0 0 0 0 0 -0.26458323 0.26458263 0 0 -0.52916592 0.52916789 0 0 0 0 0 0 -0.52916592"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan35">user-defined pattern
+</tspan></tspan><tspan
+         x="43.110428"
+         y="88.032428"
+         id="tspan38"><tspan
+           dx="0 0 0 0 0 -0.52916688 0.52916712 0 0 0 0 0 0 -0.52916664 0.52916527"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan37">(from Ableton Live)</tspan></tspan></text>
+    <path
+       style="fill:#aaccee;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 174.35447,92.14862 6.76377,-21.16668 h 33.81885 l -6.76377,21.16668 z"
+       id="path5" />
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-size:2.82223px;line-height:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:justify;text-decoration-color:#000000;letter-spacing:0.264583px;word-spacing:0.529167px;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#path5);shape-padding:0.497788;display:inline;fill:none;stroke:#bfbfbf;stroke-width:1.88976;stroke-dasharray:7.55906, 15.1181"
+       y="0"
+       x="0"
+       transform="translate(2.8205182,0.29755883)"><tspan
+         x="181.36964"
+         y="74.134174"
+         id="tspan40"><tspan
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan39">
+</tspan></tspan><tspan
+         x="180.242"
+         y="77.66196"
+         id="tspan43"><tspan
+           dx="0 0 0 0 -0.52916688 0.52916718"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan41">•new rhythmic</tspan><tspan
+           dx="-0.52916771"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan42"> </tspan></tspan><tspan
+         x="179.11435"
+         y="81.189746"
+         id="tspan45"><tspan
+           dx="0 0 0 0 0 0 0 -0.52916664"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan44">pattern
+</tspan></tspan><tspan
+         x="177.98671"
+         y="84.717533"
+         id="tspan47"><tspan
+           dx="0 0 0 -0.52916712 0.52916712 0 0 0 0 0 0 -0.52916664 0.52916718 0 0 0 0 -0.52916795"
+           style="text-align:start;fill:#000000;stroke:none"
+           id="tspan46">(to Ableton Live)
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.1662211,32.780397)"
+       id="text6"
+       style="font-size:10.6667px;line-height:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;text-decoration-color:#000000;letter-spacing:1px;word-spacing:2px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#aaccee;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="386.49414"
+         y="168.20358"
+         id="tspan49"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 -1.999999 1.9999995 -2.0000043 2.0000033 0 0 0 0 0 0 0 0 0 -2.0000067"
+           style="fill:#000000;stroke:none"
+           id="tspan48">•pulseSync / metricSync
+</tspan></tspan><tspan
+         x="386.49414"
+         y="181.53696"
+         id="tspan51"><tspan
+           dx="0 0 0 0 -2.0000014"
+           style="fill:#000000;stroke:none"
+           id="tspan50">•DFT
+</tspan></tspan><tspan
+         x="386.49414"
+         y="194.87033"
+         id="tspan53"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 -2.0000024 1.9999995 0 0 0 0 0 0 0 -1.9999986"
+           style="fill:#000000;stroke:none"
+           id="tspan52">•Euclidean Distance
+</tspan></tspan><tspan
+         x="386.49414"
+         y="208.20371"
+         id="tspan55"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan54">•Sorting</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 81.259824,81.850404 H 96.259823"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 156.25982,81.850405 h 15"
+       id="path8" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="font-size:10.6667px;line-height:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;text-decoration-color:#000000;letter-spacing:1px;word-spacing:2px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="609.48633"
+         y="432.77194"
+         id="tspan57"><tspan
+           dx="0 0 0 0 0 0 0 -1.9999986 1.9999995"
+           style="fill:#000000;stroke:none"
+           id="tspan56">Ableton Live</tspan></tspan></text>
+  </g>
+</svg>

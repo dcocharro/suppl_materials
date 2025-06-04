@@ -1,0 +1,100 @@
+{
+	"0" : 	{
+		"pulses" : 16,
+		"primeFactors" : [ 2, 2, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 2, 2 ]
+	}
+,
+	"1" : 	{
+		"pulses" : 8,
+		"primeFactors" : [ 2, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 2, 4 ]
+	}
+,
+	"2" : 	{
+		"pulses" : 12,
+		"primeFactors" : [ 3, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 3, 4 ]
+	}
+,
+	"3" : 	{
+		"pulses" : 16,
+		"primeFactors" : [ 2, 2, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 4, 4 ]
+	}
+,
+	"4" : 	{
+		"pulses" : 20,
+		"primeFactors" : [ 5, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 5, 4 ]
+	}
+,
+	"5" : 	{
+		"pulses" : 24,
+		"primeFactors" : [ 2, 3, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 6, 4 ]
+	}
+,
+	"6" : 	{
+		"pulses" : 28,
+		"primeFactors" : [ 7, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 7, 4 ]
+	}
+,
+	"7" : 	{
+		"pulses" : 36,
+		"primeFactors" : [ 3, 3, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 9, 4 ]
+	}
+,
+	"8" : 	{
+		"pulses" : 48,
+		"primeFactors" : [ 2, 2, 3, 2, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 12, 4 ]
+	}
+,
+	"9" : 	{
+		"pulses" : 10,
+		"primeFactors" : [ 5, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 5, 8 ]
+	}
+,
+	"10" : 	{
+		"pulses" : 12,
+		"primeFactors" : [ 2, 3, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 6, 8 ]
+	}
+,
+	"11" : 	{
+		"pulses" : 14,
+		"primeFactors" : [ 7, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 7, 8 ]
+	}
+,
+	"12" : 	{
+		"pulses" : 18,
+		"primeFactors" : [ 3, 3, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 9, 8 ]
+	}
+,
+	"13" : 	{
+		"pulses" : 24,
+		"primeFactors" : [ 2, 2, 3, 2 ],
+		"stratification" : "16n",
+		"meter" : [ 12, 8 ]
+	}
+
+}

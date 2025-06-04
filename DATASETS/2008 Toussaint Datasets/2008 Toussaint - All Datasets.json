@@ -1,0 +1,661 @@
+{
+    "Povel Essens 1985 dataset": [
+        {
+            "no": 1,
+            "rhythm": "x x x x x . . x x . x . x . . .",
+            "rhythmBinary": "1 1 1 1 1 0 0 1 1 0 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 5,
+            "perceptualComplexityShmulevichAndPovel": 1.56
+        },
+        {
+            "no": 2,
+            "rhythm": "x x x . x . x x x . . x x . . .",
+            "rhythmBinary": "1 1 1 0 1 0 1 1 1 0 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 1,
+            "perceptualComplexityShmulevichAndPovel": 2.12
+        },
+        {
+            "no": 3,
+            "rhythm": "x . x x x . x x x . . x x . . .",
+            "rhythmBinary": "1 0 1 1 1 0 1 1 1 0 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 0,
+            "perceptualComplexityShmulevichAndPovel": 2.08
+        },
+        {
+            "no": 4,
+            "rhythm": "x . x . x x x x x . . x x . . .",
+            "rhythmBinary": "1 0 1 0 1 1 1 1 1 0 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 2,
+            "perceptualComplexityShmulevichAndPovel": 1.88
+        },
+        {
+            "no": 5,
+            "rhythm": "x . . x x . x . x x x x x . . .",
+            "rhythmBinary": "1 0 0 1 1 0 1 0 1 1 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 3,
+            "perceptualComplexityShmulevichAndPovel": 1.8
+        },
+        {
+            "no": 6,
+            "rhythm": "x x x . x x x . x x . . x . . .",
+            "rhythmBinary": "1 1 1 0 1 1 1 0 1 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 9,
+            "perceptualComplexityShmulevichAndPovel": 2.44
+        },
+        {
+            "no": 7,
+            "rhythm": "x . x x x x . x x . . x x . . .",
+            "rhythmBinary": "1 0 1 1 1 1 0 1 1 0 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 7,
+            "perceptualComplexityShmulevichAndPovel": 2.2
+        },
+        {
+            "no": 8,
+            "rhythm": "x x . . x x x x x . x . x . . .",
+            "rhythmBinary": "1 1 0 0 1 1 1 1 1 0 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 4,
+            "perceptualComplexityShmulevichAndPovel": 2.56
+        },
+        {
+            "no": 9,
+            "rhythm": "x x . . x . x x x . x x x . . .",
+            "rhythmBinary": "1 1 0 0 1 0 1 1 1 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 14,
+            "perceptualComplexityShmulevichAndPovel": 3
+        },
+        {
+            "no": 10,
+            "rhythm": "x . x x x . x x x x . . x . . .",
+            "rhythmBinary": "1 0 1 1 1 0 1 1 1 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 18,
+            "perceptualComplexityShmulevichAndPovel": 2.04
+        },
+        {
+            "no": 11,
+            "rhythm": "x x x . x x . . x x . x x . . .",
+            "rhythmBinary": "1 1 1 0 1 1 0 0 1 1 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 19,
+            "perceptualComplexityShmulevichAndPovel": 2.76
+        },
+        {
+            "no": 12,
+            "rhythm": "x x . x x x x . x . . x x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 1 0 1 0 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 15,
+            "perceptualComplexityShmulevichAndPovel": 2.72
+        },
+        {
+            "no": 13,
+            "rhythm": "x x . x x . x x x x . . x . . .",
+            "rhythmBinary": "1 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 13,
+            "perceptualComplexityShmulevichAndPovel": 3
+        },
+        {
+            "no": 14,
+            "rhythm": "x x . . x x . x x . x x x . . .",
+            "rhythmBinary": "1 1 0 0 1 1 0 1 1 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 27,
+            "perceptualComplexityShmulevichAndPovel": 3.16
+        },
+        {
+            "no": 15,
+            "rhythm": "x . . x x x . x x x . x x . . .",
+            "rhythmBinary": "1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 10,
+            "perceptualComplexityShmulevichAndPovel": 2.04
+        },
+        {
+            "no": 16,
+            "rhythm": "x x . x x x x . x x . . x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 1 0 1 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 11,
+            "perceptualComplexityShmulevichAndPovel": 2.88
+        },
+        {
+            "no": 17,
+            "rhythm": "x x . x x x . x x x . . x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 0 1 1 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 17,
+            "perceptualComplexityShmulevichAndPovel": 2.6
+        },
+        {
+            "no": 18,
+            "rhythm": "x x . x x x . . x x . x x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 22,
+            "perceptualComplexityShmulevichAndPovel": 2.6
+        },
+        {
+            "no": 19,
+            "rhythm": "x x . . x x . x x x x . x . . .",
+            "rhythmBinary": "1 1 0 0 1 1 0 1 1 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 21,
+            "perceptualComplexityShmulevichAndPovel": 2.64
+        },
+        {
+            "no": 20,
+            "rhythm": "x x . . x x . x x x . x x . . .",
+            "rhythmBinary": "1 1 0 0 1 1 0 1 1 1 0 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 25,
+            "perceptualComplexityShmulevichAndPovel": 3.24
+        },
+        {
+            "no": 21,
+            "rhythm": "x x x x x . x x . x . . x . . .",
+            "rhythmBinary": "1 1 1 1 1 0 1 1 0 1 0 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 29,
+            "perceptualComplexityShmulevichAndPovel": 3.08
+        },
+        {
+            "no": 22,
+            "rhythm": "x x x x . x . . x x x . x . . .",
+            "rhythmBinary": "1 1 1 1 0 1 0 0 1 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 20,
+            "perceptualComplexityShmulevichAndPovel": 3.04
+        },
+        {
+            "no": 23,
+            "rhythm": "x x x . . x x . x x x . x . . .",
+            "rhythmBinary": "1 1 1 0 0 1 1 0 1 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 16,
+            "perceptualComplexityShmulevichAndPovel": 3.04
+        },
+        {
+            "no": 24,
+            "rhythm": "x . x x x . . x . x x x x . . .",
+            "rhythmBinary": "1 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 6,
+            "perceptualComplexityShmulevichAndPovel": 2.56
+        },
+        {
+            "no": 25,
+            "rhythm": "x . x . . x x x x . x x x . . .",
+            "rhythmBinary": "1 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 8,
+            "perceptualComplexityShmulevichAndPovel": 2.56
+        },
+        {
+            "no": 26,
+            "rhythm": "x x x x . x . x . . x x x . . .",
+            "rhythmBinary": "1 1 1 1 0 1 0 1 0 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 26,
+            "perceptualComplexityShmulevichAndPovel": 2.84
+        },
+        {
+            "no": 27,
+            "rhythm": "x x . x x x . x . . x x x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 0 1 0 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 23,
+            "perceptualComplexityShmulevichAndPovel": 3.6
+        },
+        {
+            "no": 28,
+            "rhythm": "x x . x . . x x x . x x x . . .",
+            "rhythmBinary": "1 1 0 1 0 0 1 1 1 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 32,
+            "perceptualComplexityShmulevichAndPovel": 2.68
+        },
+        {
+            "no": 29,
+            "rhythm": "x . x x x x . x . . x x x . . .",
+            "rhythmBinary": "1 0 1 1 1 1 0 1 0 0 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 28,
+            "perceptualComplexityShmulevichAndPovel": 3.28
+        },
+        {
+            "no": 30,
+            "rhythm": "x . . x x x x x . x x . x . . .",
+            "rhythmBinary": "1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 21,
+            "perceptualComplexityShmulevichAndPovel": 3.08
+        },
+        {
+            "no": 31,
+            "rhythm": "x x x x . x x x . . x . x . . .",
+            "rhythmBinary": "1 1 1 1 0 1 1 1 0 0 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 30,
+            "perceptualComplexityShmulevichAndPovel": 3.52
+        },
+        {
+            "no": 32,
+            "rhythm": "x x x x . . x x . x x . x . . .",
+            "rhythmBinary": "1 1 1 1 0 0 1 1 0 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 31,
+            "perceptualComplexityShmulevichAndPovel": 3.6
+        },
+        {
+            "no": 33,
+            "rhythm": "x x . x x x x . . x x . x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 1 0 0 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 24,
+            "perceptualComplexityShmulevichAndPovel": 3.04
+        },
+        {
+            "no": 34,
+            "rhythm": "x x . x . . x x x x x . x . . .",
+            "rhythmBinary": "1 1 0 1 0 0 1 1 1 1 1 0 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 33,
+            "perceptualComplexityShmulevichAndPovel": 2.88
+        },
+        {
+            "no": 35,
+            "rhythm": "x . x . . x x x . x x x x . . .",
+            "rhythmBinary": "1 0 1 0 0 1 1 1 0 1 1 1 1 0 0 0",
+            "performanceComplexityPovelAndEssens": 12,
+            "perceptualComplexityShmulevichAndPovel": 3.08
+        }
+    ],
+    "Essens 1995 dataset": [
+        {
+            "no": 1,
+            "rhythm": "x x x . x x x . x x x . x x . .",
+            "rhythmBinary": "1 1 1 0 1 1 1 0 1 1 1 0 1 1 0 0",
+            "performanceComplexityEssens": 0,
+            "perceptualComplexityEssens": 2.2
+        },
+        {
+            "no": 2,
+            "rhythm": "x x x . x . x x x . x x x x . .",
+            "rhythmBinary": "1 1 1 0 1 0 1 1 1 0 1 1 1 1 0 0",
+            "performanceComplexityEssens": 8,
+            "perceptualComplexityEssens": 3.1
+        },
+        {
+            "no": 3,
+            "rhythm": "x . x x x . x x x . . x x x . .",
+            "rhythmBinary": "1 0 1 1 1 0 1 1 1 0 0 1 1 1 0 0",
+            "performanceComplexityEssens": 4,
+            "perceptualComplexityEssens": 3.2
+        },
+        {
+            "no": 4,
+            "rhythm": "x . x x x . . x x . x x x x . .",
+            "rhythmBinary": "1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 0",
+            "performanceComplexityEssens": 19,
+            "perceptualComplexityEssens": 2.9
+        },
+        {
+            "no": 5,
+            "rhythm": "x x x . x x x . x x . x x . . .",
+            "rhythmBinary": "1 1 1 0 1 1 1 0 1 1 0 1 1 0 0 0",
+            "performanceComplexityEssens": 2,
+            "perceptualComplexityEssens": 2.2
+        },
+        {
+            "no": 6,
+            "rhythm": "x x x . x . . x x . x . x x . .",
+            "rhythmBinary": "1 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0",
+            "performanceComplexityEssens": 7,
+            "perceptualComplexityEssens": 3.1
+        },
+        {
+            "no": 7,
+            "rhythm": "x x x x x x x . x x x . x x x .",
+            "rhythmBinary": "1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0",
+            "performanceComplexityEssens": 10,
+            "perceptualComplexityEssens": 2.6
+        },
+        {
+            "no": 8,
+            "rhythm": "x x x . x x x x x . . x x x . .",
+            "rhythmBinary": "1 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0",
+            "performanceComplexityEssens": 5,
+            "perceptualComplexityEssens": 4.2
+        },
+        {
+            "no": 9,
+            "rhythm": "x x x x x x . x x . x x x . . .",
+            "rhythmBinary": "1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 0",
+            "performanceComplexityEssens": 13,
+            "perceptualComplexityEssens": 2.9
+        },
+        {
+            "no": 10,
+            "rhythm": "x . x . x . x . x x x . x x . .",
+            "rhythmBinary": "1 0 1 0 1 0 1 0 1 1 1 0 1 1 0 0",
+            "performanceComplexityEssens": 6,
+            "perceptualComplexityEssens": 2.8
+        },
+        {
+            "no": 11,
+            "rhythm": "x x x x x x x . x x x . x . x .",
+            "rhythmBinary": "1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 0",
+            "performanceComplexityEssens": 1,
+            "perceptualComplexityEssens": 3.1
+        },
+        {
+            "no": 12,
+            "rhythm": "x x x . x x . . x . x . x . . .",
+            "rhythmBinary": "1 1 1 0 1 1 0 0 1 0 1 0 1 0 0 0",
+            "performanceComplexityEssens": 3,
+            "perceptualComplexityEssens": 2.5
+        },
+        {
+            "no": 13,
+            "rhythm": "x . . x x x x . x x . . x x . .",
+            "rhythmBinary": "1 0 0 1 1 1 1 0 1 1 0 0 1 1 0 0",
+            "performanceComplexityEssens": 20,
+            "perceptualComplexityEssens": 3.5
+        },
+        {
+            "no": 14,
+            "rhythm": "x . x x x x . x x x . x x x . .",
+            "rhythmBinary": "1 0 1 1 1 1 0 1 1 1 0 1 1 1 0 0",
+            "performanceComplexityEssens": 12,
+            "perceptualComplexityEssens": 2.5
+        },
+        {
+            "no": 15,
+            "rhythm": "x . . x x x . x x x . x x x . .",
+            "rhythmBinary": "1 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0",
+            "performanceComplexityEssens": 14,
+            "perceptualComplexityEssens": 2.4
+        },
+        {
+            "no": 16,
+            "rhythm": "x . . x x x . x x x x . x x . .",
+            "rhythmBinary": "1 0 0 1 1 1 0 1 1 1 1 0 1 1 0 0",
+            "performanceComplexityEssens": 11,
+            "perceptualComplexityEssens": 3
+        },
+        {
+            "no": 17,
+            "rhythm": "x x . x x x . x x x x . x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 0 1 1 1 1 0 1 0 0 0",
+            "performanceComplexityEssens": 17,
+            "perceptualComplexityEssens": 3
+        },
+        {
+            "no": 18,
+            "rhythm": "x . . x x x x x x x . x x x . .",
+            "rhythmBinary": "1 0 0 1 1 1 1 1 1 1 0 1 1 1 0 0",
+            "performanceComplexityEssens": 18,
+            "perceptualComplexityEssens": 3.1
+        },
+        {
+            "no": 19,
+            "rhythm": "x . x . x x . x x x . x x x . .",
+            "rhythmBinary": "1 0 1 0 1 1 0 1 1 1 0 1 1 1 0 0",
+            "performanceComplexityEssens": 22,
+            "perceptualComplexityEssens": 2.4
+        },
+        {
+            "no": 20,
+            "rhythm": "x x . x x x x . x x . x x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0",
+            "performanceComplexityEssens": 16,
+            "perceptualComplexityEssens": 3.2
+        },
+        {
+            "no": 21,
+            "rhythm": "x x . x x x . x x x x x x . . .",
+            "rhythmBinary": "1 1 0 1 1 1 0 1 1 1 1 1 1 0 0 0",
+            "performanceComplexityEssens": 15,
+            "perceptualComplexityEssens": 2.4
+        },
+        {
+            "no": 22,
+            "rhythm": "x x . . x x . x x x x x x . . .",
+            "rhythmBinary": "1 1 0 0 1 1 0 1 1 1 1 1 1 0 0 0",
+            "performanceComplexityEssens": 11,
+            "perceptualComplexityEssens": 2.9
+        },
+        {
+            "no": 23,
+            "rhythm": "x . x . x x . x x x x x x x . .",
+            "rhythmBinary": "1 0 1 0 1 1 0 1 1 1 1 1 1 1 0 0",
+            "performanceComplexityEssens": 21,
+            "perceptualComplexityEssens": 2.7
+        },
+        {
+            "no": 24,
+            "rhythm": "x x . x x x x x x . x . x x . .",
+            "rhythmBinary": "1 1 0 1 1 1 1 1 1 0 1 0 1 1 0 0",
+            "performanceComplexityEssens": 9,
+            "perceptualComplexityEssens": 3.8
+        }
+    ],
+    "Fitch and Rosenfeld 2007 dataset": [
+        {
+            "no": 1,
+            "rhythm": "x . . . . . x . x . . . . . x .",
+            "rhythmBinary": "1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.075,
+            "meterComplexityNumberOfResets": 2.5,
+            "performanceComplexityPlaybackError": 0.138
+        },
+        {
+            "no": 2,
+            "rhythm": "x . . . x . . . x . . . x . x .",
+            "rhythmBinary": "1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.082,
+            "meterComplexityNumberOfResets": 2.25,
+            "performanceComplexityPlaybackError": 0.145
+        },
+        {
+            "no": 3,
+            "rhythm": "x . x . x . . . . . . . x . x .",
+            "rhythmBinary": "1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.075,
+            "meterComplexityNumberOfResets": 2.313,
+            "performanceComplexityPlaybackError": 0.153
+        },
+        {
+            "no": 4,
+            "rhythm": "x . . . x x x . . . . . x . . .",
+            "rhythmBinary": "1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.119,
+            "meterComplexityNumberOfResets": 8.75,
+            "performanceComplexityPlaybackError": 0.257
+        },
+        {
+            "no": 5,
+            "rhythm": ". . x . . . x . x . x . x . . .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.103,
+            "meterComplexityNumberOfResets": 5.5,
+            "performanceComplexityPlaybackError": 0.133
+        },
+        {
+            "no": 6,
+            "rhythm": ". . x . . . x . x . . . x . x .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.082,
+            "meterComplexityNumberOfResets": 3.063,
+            "performanceComplexityPlaybackError": 0.235
+        },
+        {
+            "no": 7,
+            "rhythm": "x . . . . . x . . x . . . . x .",
+            "rhythmBinary": "1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.112,
+            "meterComplexityNumberOfResets": 6,
+            "performanceComplexityPlaybackError": 0.215
+        },
+        {
+            "no": 8,
+            "rhythm": "x . . x . . . x . . x . x . . .",
+            "rhythmBinary": "1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.11,
+            "meterComplexityNumberOfResets": 5.188,
+            "performanceComplexityPlaybackError": 0.208
+        },
+        {
+            "no": 9,
+            "rhythm": "x . . . . x . . . x . . . x x .",
+            "rhythmBinary": "1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.141,
+            "meterComplexityNumberOfResets": 6.938,
+            "performanceComplexityPlaybackError": 0.25
+        },
+        {
+            "no": 10,
+            "rhythm": "x . . . . x . . . x . . . x . .",
+            "rhythmBinary": "1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.144,
+            "meterComplexityNumberOfResets": 10.375,
+            "performanceComplexityPlaybackError": 0.171
+        },
+        {
+            "no": 11,
+            "rhythm": ". . x . . . x . . . x x . x . .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.13,
+            "meterComplexityNumberOfResets": 6.875,
+            "performanceComplexityPlaybackError": 0.22
+        },
+        {
+            "no": 12,
+            "rhythm": ". x . . . x . . . x . . x . x .",
+            "rhythmBinary": "0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.124,
+            "meterComplexityNumberOfResets": 6.438,
+            "performanceComplexityPlaybackError": 0.226
+        },
+        {
+            "no": 13,
+            "rhythm": ". . x . . . x x . . . x . x . .",
+            "rhythmBinary": "0 0 1 0 0 0 1 1 0 0 0 1 0 1 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.13,
+            "meterComplexityNumberOfResets": 6.965,
+            "performanceComplexityPlaybackError": 0.387
+        },
+        {
+            "no": 14,
+            "rhythm": ". . x . . x . . . . . x . . . x",
+            "rhythmBinary": "0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1",
+            "meterComplexityBeatTappingAdjusted": 0.159,
+            "meterComplexityNumberOfResets": 11.688,
+            "performanceComplexityPlaybackError": 0.239
+        },
+        {
+            "no": 15,
+            "rhythm": ". . . x . x . . . . x x . . . x",
+            "rhythmBinary": "0 0 0 1 0 1 0 0 0 0 1 1 0 0 0 1",
+            "meterComplexityBeatTappingAdjusted": 0.172,
+            "meterComplexityNumberOfResets": 13.688,
+            "performanceComplexityPlaybackError": 0.485
+        },
+        {
+            "no": 16,
+            "rhythm": "x . . . x . x x x . . . . . . .",
+            "rhythmBinary": "1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.085,
+            "meterComplexityNumberOfResets": 2.625,
+            "performanceComplexityPlaybackError": 0.173
+        },
+        {
+            "no": 17,
+            "rhythm": "x . x . x . . . . . x . x . . .",
+            "rhythmBinary": "1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.077,
+            "meterComplexityNumberOfResets": 2.313,
+            "performanceComplexityPlaybackError": 0.179
+        },
+        {
+            "no": 18,
+            "rhythm": ". . x . x . . . x . x . x . . .",
+            "rhythmBinary": "0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.077,
+            "meterComplexityNumberOfResets": 2.438,
+            "performanceComplexityPlaybackError": 0.182
+        },
+        {
+            "no": 19,
+            "rhythm": "x . x . . . x . x . . x . . . .",
+            "rhythmBinary": "1 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.074,
+            "meterComplexityNumberOfResets": 1.938,
+            "performanceComplexityPlaybackError": 0.252
+        },
+        {
+            "no": 20,
+            "rhythm": ". . x . . . x . x . . . x . . .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.098,
+            "meterComplexityNumberOfResets": 3.375,
+            "performanceComplexityPlaybackError": 0.142
+        },
+        {
+            "no": 21,
+            "rhythm": "x . . . . x . x . . x . x . . .",
+            "rhythmBinary": "1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.161,
+            "meterComplexityNumberOfResets": 11.063,
+            "performanceComplexityPlaybackError": 0.305
+        },
+        {
+            "no": 22,
+            "rhythm": ". . x . . . x . x . x . . . x .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.129,
+            "meterComplexityNumberOfResets": 8.5,
+            "performanceComplexityPlaybackError": 0.321
+        },
+        {
+            "no": 23,
+            "rhythm": "x x . . . x . . . . x . . . x .",
+            "rhythmBinary": "1 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0",
+            "meterComplexityBeatTappingAdjusted": 0.145,
+            "meterComplexityNumberOfResets": 7.375,
+            "performanceComplexityPlaybackError": 0.32
+        },
+        {
+            "no": 24,
+            "rhythm": ". x . . . x . . . x x . x . . .",
+            "rhythmBinary": "0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.134,
+            "meterComplexityNumberOfResets": 7.188,
+            "performanceComplexityPlaybackError": 0.265
+        },
+        {
+            "no": 25,
+            "rhythm": ". . x . . . x . . . x . . x . .",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.146,
+            "meterComplexityNumberOfResets": 8.625,
+            "performanceComplexityPlaybackError": 0.176
+        },
+        {
+            "no": 26,
+            "rhythm": ". . x . . . x . . . x x . . . x",
+            "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 1 0 0 0 1",
+            "meterComplexityBeatTappingAdjusted": 0.118,
+            "meterComplexityNumberOfResets": 6.5,
+            "performanceComplexityPlaybackError": 0.326
+        },
+        {
+            "no": 27,
+            "rhythm": ". . x . . x . . . . x . . x . x",
+            "rhythmBinary": "0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 1",
+            "meterComplexityBeatTappingAdjusted": 0.117,
+            "meterComplexityNumberOfResets": 6.188,
+            "performanceComplexityPlaybackError": 0.368
+        },
+        {
+            "no": 28,
+            "rhythm": ". . x x . . . x . . . x . x . .",
+            "rhythmBinary": "0 0 1 1 0 0 0 1 0 0 0 1 0 1 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.154,
+            "meterComplexityNumberOfResets": 10.813,
+            "performanceComplexityPlaybackError": 0.344
+        },
+        {
+            "no": 29,
+            "rhythm": ". x . x . x . x . . . x . . . .",
+            "rhythmBinary": "0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 0",
+            "meterComplexityBeatTappingAdjusted": 0.191,
+            "meterComplexityNumberOfResets": 15.75,
+            "performanceComplexityPlaybackError": 0.185
+        },
+        {
+            "no": 30,
+            "rhythm": ". x . x . . . x . . . x . . . x",
+            "rhythmBinary": "0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1",
+            "meterComplexityBeatTappingAdjusted": 0.164,
+            "meterComplexityNumberOfResets": 11.938,
+            "performanceComplexityPlaybackError": 0.158
+        }
+    ]
+}

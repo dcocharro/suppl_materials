@@ -1,0 +1,13 @@
+{
+  "name": "als-fft",
+  "version": "3.1.0",
+  "description": "**als-fft** is a small library for performing Fast Fourier Transforms (FFT) and Inverse Fast Fourier Transforms (IFFT) on arrays of real (or complex) data in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test --experimental-test-coverage ./tests/**.test.js",
+    "test-report": "node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=lcov.info ./tests/test.test.js"
+  },
+  "keywords": [],
+  "author": "Alex Sorkin",
+  "license": "MIT"
+}

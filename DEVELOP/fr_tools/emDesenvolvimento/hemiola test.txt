@@ -1,0 +1,125 @@
+User Pattern:   [1,0,0,0,0,0,1,0,0,0,0,0]  -  Meter: [6,8] 
+
+metricSync
+Distance: 0.000  - Pattern: [1,0,0,0,1,0,0,0]  - Meter: [2,4] 
+
+pulseSync
+Distance: 0.109  - Pattern: [1,0,0,0,1,0,0,0]  - Meter: [2,4] 
+
+
+
+
+
+
+USER
+--- PRINT ALL RHYTHMIC CONTENTS --- 
+
+=== RHYTHMIC OBJECT 0 === 
+Original rhythm:   [1,0,0,0,0,0,1,0,0,0,0,0]   
+Meter:   [6,8]   
+Sync method:   metricSync   
+First 5 time domain pulses:   [1,0,0,0,0]   
+Frequency domain length:   8192   
+First 5 magnitude values: [  0.086, 0.094, 0.112, 0.147, 0.235  ] 
+First 5 phase values: [  -2.416, -1.69, -0.965, -0.239, 0.486  ] 
+
+--- END OF RHYTHMIC CONTENTS --- 
+
+
+CORPUS:
+--- PRINT ALL RHYTHMIC CONTENTS --- 
+
+=== RHYTHMIC OBJECT 0 === 
+Original rhythm:   [1,0,0,0,1,0,0,0]   
+Meter:   [2,4]   
+Sync method:   metricSync   
+First 5 time domain pulses:   [1,0,0,0,0]   
+Frequency domain length:   8192   
+First 5 magnitude values: [  0.086, 0.094, 0.112, 0.147, 0.235  ] 
+First 5 phase values: [  -2.416, -1.69, -0.965, -0.239, 0.486  ] 
+
+--- END OF RHYTHMIC CONTENTS --- 
+
+
+
+HEMIOLA - - - - - - - - - - - - - - - - - - - -
+
+USER:
+=== RHYTHMIC OBJECT 0 === 
+Original rhythm:   [1,0,1,0,1,0,1,0,1,0,1,0]   
+Meter:   [6,8]   
+Sync method:   pulseSync   
+First 5 time domain pulses:   [1,0,1,0,1]   
+Frequency domain length:   256   
+First 5 magnitude values: [  0.016, 0.016, 0.016, 0.016, 0.016  ] 
+First 5 phase values: [  -3.08, -3.019, -2.958, -2.896, -2.835  ] 
+
+--- END OF RHYTHMIC CONTENTS --- 
+
+
+CORPUS:
+=== RHYTHMIC OBJECT 0 === 
+Original rhythm:   [1,0,1,0,1,0,1,0]   
+Meter:   [2,4]   
+Sync method:   pulseSync   
+First 5 time domain pulses:   [1,0,1,0,1]   
+Frequency domain length:   256   
+First 5 magnitude values: [  0, 0, 0, 0, 0  ] 
+First 5 phase values: [  0, 0, 0, 0, 0  ] 
+
+--- END OF RHYTHMIC CONTENTS --- 
+
+
+User Pattern: [1,0,1,0,1,0,1,0,1,0,1,0]  -  Meter: [6,8]
+
+metricSync:
+Distance: 0.262  - Pattern: [1,0,1,0,1,0,1,0]  - Meter: [2,4] 
+
+pulseSync:
+Distance: 0.008  - Pattern: [1,0,1,0,1,0,1,0]  - Meter: [2,4] 
+
+
+
+
+
+
+
+ ====== HEMIOLA TEST ======  
+"rhythm": [1,0,1,0,1,0,1,0,1,0,1,0],  
+"meter": 6,8,  
+"syncMethod": pulseSync,  
+"syncTimeDomainLength": 12,  
+"syncFreqDomainLength": 256 
+    }   
+--- OBJECTS SORTED BY DISTANCE TO USER PATTERN --- 
+Distance: 0.008  - Pattern: [1,0,1,0,1,0,1,0]  - Meter: [2,4] 
+
+
+
+ ====== HEMIOLA TEST ======  
+{ "rhythm": [1,0,1,0,1,0,1,0,1,0,1,0],  
+"meter": 6,8,  
+"syncMethod": metricSync,  
+"syncTimeDomainLength": 5040,  
+"syncFreqDomainLength": 8192 
+    }   
+
+--- OBJECTS SORTED BY DISTANCE TO USER PATTERN --- 
+Distance: 0.262  - Pattern: [1,0,1,0,1,0,1,0]  - Meter: [2,4] 
+
+
+
+ ====== HEMIOLA TEST ======  
+{ "rhythm": [1,0,1,0,1,0,1,0,1,0,1,0],  
+"meter": 6,8,  
+"syncMethod": beatSync,  
+"syncTimeDomainLength": 48,  
+"syncFreqDomainLength": 2048 
+    }   
+
+--- OBJECTS SORTED BY DISTANCE TO USER PATTERN --- 
+Distance: 0.063  - Pattern: [1,0,1,0,1,0,1,0]  - Meter: [2,4] 
+
+
+
+

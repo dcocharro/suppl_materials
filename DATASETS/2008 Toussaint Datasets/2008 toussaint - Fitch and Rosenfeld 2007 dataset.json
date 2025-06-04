@@ -1,0 +1,242 @@
+[
+    {
+        "no": 1,
+        "rhythm": "x . . . . . x . x . . . . . x .",
+        "rhythmBinary": "1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.075,
+        "meterComplexityNumberOfResets": 2.5,
+        "performanceComplexityPlaybackError": 0.138
+    },
+    {
+        "no": 2,
+        "rhythm": "x . . . x . . . x . . . x . x .",
+        "rhythmBinary": "1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.082,
+        "meterComplexityNumberOfResets": 2.25,
+        "performanceComplexityPlaybackError": 0.145
+    },
+    {
+        "no": 3,
+        "rhythm": "x . x . x . . . . . . . x . x .",
+        "rhythmBinary": "1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.075,
+        "meterComplexityNumberOfResets": 2.313,
+        "performanceComplexityPlaybackError": 0.153
+    },
+    {
+        "no": 4,
+        "rhythm": "x . . . x x x . . . . . x . . .",
+        "rhythmBinary": "1 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.119,
+        "meterComplexityNumberOfResets": 8.75,
+        "performanceComplexityPlaybackError": 0.257
+    },
+    {
+        "no": 5,
+        "rhythm": ". . x . . . x . x . x . x . . .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.103,
+        "meterComplexityNumberOfResets": 5.5,
+        "performanceComplexityPlaybackError": 0.133
+    },
+    {
+        "no": 6,
+        "rhythm": ". . x . . . x . x . . . x . x .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.082,
+        "meterComplexityNumberOfResets": 3.063,
+        "performanceComplexityPlaybackError": 0.235
+    },
+    {
+        "no": 7,
+        "rhythm": "x . . . . . x . . x . . . . x .",
+        "rhythmBinary": "1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.112,
+        "meterComplexityNumberOfResets": 6,
+        "performanceComplexityPlaybackError": 0.215
+    },
+    {
+        "no": 8,
+        "rhythm": "x . . x . . . x . . x . x . . .",
+        "rhythmBinary": "1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.11,
+        "meterComplexityNumberOfResets": 5.188,
+        "performanceComplexityPlaybackError": 0.208
+    },
+    {
+        "no": 9,
+        "rhythm": "x . . . . x . . . x . . . x x .",
+        "rhythmBinary": "1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.141,
+        "meterComplexityNumberOfResets": 6.938,
+        "performanceComplexityPlaybackError": 0.25
+    },
+    {
+        "no": 10,
+        "rhythm": "x . . . . x . . . x . . . x . .",
+        "rhythmBinary": "1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.144,
+        "meterComplexityNumberOfResets": 10.375,
+        "performanceComplexityPlaybackError": 0.171
+    },
+    {
+        "no": 11,
+        "rhythm": ". . x . . . x . . . x x . x . .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.13,
+        "meterComplexityNumberOfResets": 6.875,
+        "performanceComplexityPlaybackError": 0.22
+    },
+    {
+        "no": 12,
+        "rhythm": ". x . . . x . . . x . . x . x .",
+        "rhythmBinary": "0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.124,
+        "meterComplexityNumberOfResets": 6.438,
+        "performanceComplexityPlaybackError": 0.226
+    },
+    {
+        "no": 13,
+        "rhythm": ". . x . . . x x . . . x . x . .",
+        "rhythmBinary": "0 0 1 0 0 0 1 1 0 0 0 1 0 1 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.13,
+        "meterComplexityNumberOfResets": 6.965,
+        "performanceComplexityPlaybackError": 0.387
+    },
+    {
+        "no": 14,
+        "rhythm": ". . x . . x . . . . . x . . . x",
+        "rhythmBinary": "0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1",
+        "meterComplexityBeatTappingAdjusted": 0.159,
+        "meterComplexityNumberOfResets": 11.688,
+        "performanceComplexityPlaybackError": 0.239
+    },
+    {
+        "no": 15,
+        "rhythm": ". . . x . x . . . . x x . . . x",
+        "rhythmBinary": "0 0 0 1 0 1 0 0 0 0 1 1 0 0 0 1",
+        "meterComplexityBeatTappingAdjusted": 0.172,
+        "meterComplexityNumberOfResets": 13.688,
+        "performanceComplexityPlaybackError": 0.485
+    },
+    {
+        "no": 16,
+        "rhythm": "x . . . x . x x x . . . . . . .",
+        "rhythmBinary": "1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.085,
+        "meterComplexityNumberOfResets": 2.625,
+        "performanceComplexityPlaybackError": 0.173
+    },
+    {
+        "no": 17,
+        "rhythm": "x . x . x . . . . . x . x . . .",
+        "rhythmBinary": "1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.077,
+        "meterComplexityNumberOfResets": 2.313,
+        "performanceComplexityPlaybackError": 0.179
+    },
+    {
+        "no": 18,
+        "rhythm": ". . x . x . . . x . x . x . . .",
+        "rhythmBinary": "0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.077,
+        "meterComplexityNumberOfResets": 2.438,
+        "performanceComplexityPlaybackError": 0.182
+    },
+    {
+        "no": 19,
+        "rhythm": "x . x . . . x . x . . x . . . .",
+        "rhythmBinary": "1 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.074,
+        "meterComplexityNumberOfResets": 1.938,
+        "performanceComplexityPlaybackError": 0.252
+    },
+    {
+        "no": 20,
+        "rhythm": ". . x . . . x . x . . . x . . .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.098,
+        "meterComplexityNumberOfResets": 3.375,
+        "performanceComplexityPlaybackError": 0.142
+    },
+    {
+        "no": 21,
+        "rhythm": "x . . . . x . x . . x . x . . .",
+        "rhythmBinary": "1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.161,
+        "meterComplexityNumberOfResets": 11.063,
+        "performanceComplexityPlaybackError": 0.305
+    },
+    {
+        "no": 22,
+        "rhythm": ". . x . . . x . x . x . . . x .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.129,
+        "meterComplexityNumberOfResets": 8.5,
+        "performanceComplexityPlaybackError": 0.321
+    },
+    {
+        "no": 23,
+        "rhythm": "x x . . . x . . . . x . . . x .",
+        "rhythmBinary": "1 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0",
+        "meterComplexityBeatTappingAdjusted": 0.145,
+        "meterComplexityNumberOfResets": 7.375,
+        "performanceComplexityPlaybackError": 0.32
+    },
+    {
+        "no": 24,
+        "rhythm": ". x . . . x . . . x x . x . . .",
+        "rhythmBinary": "0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.134,
+        "meterComplexityNumberOfResets": 7.188,
+        "performanceComplexityPlaybackError": 0.265
+    },
+    {
+        "no": 25,
+        "rhythm": ". . x . . . x . . . x . . x . .",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.146,
+        "meterComplexityNumberOfResets": 8.625,
+        "performanceComplexityPlaybackError": 0.176
+    },
+    {
+        "no": 26,
+        "rhythm": ". . x . . . x . . . x x . . . x",
+        "rhythmBinary": "0 0 1 0 0 0 1 0 0 0 1 1 0 0 0 1",
+        "meterComplexityBeatTappingAdjusted": 0.118,
+        "meterComplexityNumberOfResets": 6.5,
+        "performanceComplexityPlaybackError": 0.326
+    },
+    {
+        "no": 27,
+        "rhythm": ". . x . . x . . . . x . . x . x",
+        "rhythmBinary": "0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 1",
+        "meterComplexityBeatTappingAdjusted": 0.117,
+        "meterComplexityNumberOfResets": 6.188,
+        "performanceComplexityPlaybackError": 0.368
+    },
+    {
+        "no": 28,
+        "rhythm": ". . x x . . . x . . . x . x . .",
+        "rhythmBinary": "0 0 1 1 0 0 0 1 0 0 0 1 0 1 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.154,
+        "meterComplexityNumberOfResets": 10.813,
+        "performanceComplexityPlaybackError": 0.344
+    },
+    {
+        "no": 29,
+        "rhythm": ". x . x . x . x . . . x . . . .",
+        "rhythmBinary": "0 1 0 1 0 1 0 1 0 0 0 1 0 0 0 0",
+        "meterComplexityBeatTappingAdjusted": 0.191,
+        "meterComplexityNumberOfResets": 15.75,
+        "performanceComplexityPlaybackError": 0.185
+    },
+    {
+        "no": 30,
+        "rhythm": ". x . x . . . x . . . x . . . x",
+        "rhythmBinary": "0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1",
+        "meterComplexityBeatTappingAdjusted": 0.164,
+        "meterComplexityNumberOfResets": 11.938,
+        "performanceComplexityPlaybackError": 0.158
+    }
+]

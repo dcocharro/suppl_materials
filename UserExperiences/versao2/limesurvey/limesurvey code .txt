@@ -1,0 +1,257 @@
+https://drive.google.com/file/d/1pw2NlQNUDmPL0MzAHbaj1OoAh8BClr7o/view?usp=drive_link
+
+
+
+<audio autoplay=""><source src="https://www.example.com/path_to_file.mp3" type="audio/mpeg" /> <source src="https://www.example.com/path_to_file.wav" type="audio/wav" /> Your browser does not support the audio element.</audio>
+
+<audio autoplay=""><source src="https://drive.google.com/file/d/1pw2NlQNUDmPL0MzAHbaj1OoAh8BClr7o/view?usp=drive_link" type="audio/mpeg" /> <source src="https://drive.google.com/file/d/1pw2NlQNUDmPL0MzAHbaj1OoAh8BClr7o/view?usp=drive_link" type="audio/wav" /> Your browser does not support the audio element.</audio>
+
+upload/surveys/affinity
+
+134785
+686367
+
+<audio controls="" src="/upload/surveys/134785/files/TEST.mp3" type="audio/mp3">Your browser does not support the audio element.</audio>
+
+
+
+<audio controls="controls"><source src=" /upload/surveys/336775/images/MP3_file_name.mp3
+" type="audio/mp3" /> Your browser does not support this audio</audio>
+
+<audio controls loop>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---- button v0
+
+<p><figcaption>My Audio Title</figcaption><audio id="myAudio" 
+    loop="loop" 
+    controls="controls" 
+    controlslist="nodownload noplaybackrate" 
+    preload="preload"
+    title="tooltip title" 
+    src="../upload/surveys/134785/files/SINE.mp3" 
+    type="audio/mp3">Your browser does not support the audio element.</audio></p>
+	
+	
+
+----- custom JS
+// reset playback position v0
+document.addEventListener('DOMContentLoaded', () => {
+  const audio = document.getElementById('myAudio');
+  audio.addEventListener('play', function() {
+    // Reset the current time to 0 every time play is pressed.
+    this.currentTime = 0;
+  });
+});
+	
+// reset playback position v1
+document.addEventListener("DOMContentLoaded", function () {
+    const audioElements = document.querySelectorAll("audio");
+   
+    audioElements.forEach(audio => {
+        audio.addEventListener("play", function () {
+            this.currentTime = 0;
+        });
+    });
+});
+
+
+// reset playback position and pause all the other audio elements v2
+document.addEventListener("DOMContentLoaded", function () {
+  const audioElements = document.querySelectorAll("audio");
+  
+  audioElements.forEach(currentAudio => {
+    currentAudio.addEventListener("play", function () {
+      // Pause all other audio elements
+      audioElements.forEach(otherAudio => {
+        if (otherAudio !== currentAudio) {
+          otherAudio.pause();
+        }
+      });
+      // Reset the current audio's time to 0
+      currentAudio.currentTime = 0;
+    });
+  });
+});
+
+	
+------ custom CSS
+.container {
+  display: flex;
+}
+.half {
+  flex: 1;
+  border: 1px solid #000; /* Optional: visual aid */
+  box-sizing: border-box; /* Ensures padding and border are included in width */
+}
+	
+	
+	
+
+
+----- BUTTON
+
+<!-- x-tinymce/html -->
+
+<p><span style="font-size:16px;">Sunbittern </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/b_Sunbittern.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+
+
+
+1	Wisteria	p_Wisteria
+2	Agave	p_Agave
+3	Fern	p_Fern
+4	Cattail	p_Cattail
+5	Zinnia	p_Zinnia
+6	Maranta	p_Maranta
+7	Eucalyptus	p_Begonia
+8	Goldenrod	p_Goldenrod
+
+//1
+<p><span style="font-size:16px;">Wisteria </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Wisteria.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//2
+<p><span style="font-size:16px;">Agave </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Agave.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//3
+<p><span style="font-size:16px;">Fern </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Fern.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//4
+<p><span style="font-size:16px;">Cattail </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Cattail.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//5
+<p><span style="font-size:16px;">Zinnia </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Zinnia.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//6
+<p><span style="font-size:16px;">Maranta </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Maranta.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//7
+<p><span style="font-size:16px;">Begonia </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Begonia.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//8
+<p><span style="font-size:16px;">Goldenrod </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/p_Goldenrod.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+
+
+
+
+1	Varneth	m_Varneth
+2	Solmera	m_Solmera
+3	Nuvira	m_Nuvira
+4	Kelthorn	m_Kelthorn
+5	Zantria	m_Zantria
+6	Brimholt	m_Brimholt
+7	Elyndar	m_Elyndar
+8	Cavros	m_Cavros
+
+//1
+<p><span style="font-size:16px;">Varneth </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Varneth.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//2
+<p><span style="font-size:16px;">Solmera </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Solmera.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//3
+<p><span style="font-size:16px;">Nuvira </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Nuvira.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//4
+<p><span style="font-size:16px;">Kelthorn </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Kelthorn.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//5
+<p><span style="font-size:16px;">Zantria </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Zantria.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//6
+<p><span style="font-size:16px;">Brimholt </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Brimholt.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//7
+<p><span style="font-size:16px;">Elyndar </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Elyndar.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+//8
+<p><span style="font-size:16px;">Cavros </span>
+<audio controls="controls" controlslist="nodownload noplaybackrate" id="myAudio" loop="loop" 
+preload="preload" src="../upload/surveys/686367/files/m_Cavros.mp3" style="transform: translateY(23px);" 
+type="audio/mp3">Your browser does not support the audio element.</audio>
+</p>
+
+
+
+
+
+
+1	Hoatzin	b_Hoatzin
+2	Lapwing	b_Lapwing
+3	Kea	b_Kea
+4	Bustard	b_Bustard
+5	Jacana	b_Jacana
+6	Toucanet	b_Toucanet
+7	Ptarmigan	b_Ptarmigan
+8	Sunbittern	b_Sunbittern
+
+
+
