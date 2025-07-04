@@ -7,6 +7,8 @@ This version is highly efficient and can handle large numbers effectively.
 - Prevents overflow issues by dividing first ((a / gcd(a, b)) * b).
 - Scalable to multiple numbers with reduce().
 - Works efficiently for large inputs (e.g., lcmMultiple([1000000000, 500000000, 250000000])).
+
+©© Diogo Cocharro 2025
 */
 
 autowatch = 1;
