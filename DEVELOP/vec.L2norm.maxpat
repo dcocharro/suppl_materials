@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 7,
+			"revision" : 8,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 347.0, 213.0, 920.0, 564.0 ],
+		"rect" : [ 459.0, 216.0, 920.0, 564.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -20,7 +20,7 @@
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 281.0, 231.0, 30.0, 30.0 ]
+					"patching_rect" : [ 322.0, 231.0, 30.0, 30.0 ]
 				}
 
 			}
@@ -43,8 +43,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 50.0, 231.0, 172.0, 22.0 ],
-					"text" : "vexpr $f1 / $f2 @scalarmode 1"
+					"patching_rect" : [ 50.0, 231.0, 262.0, 22.0 ],
+					"text" : "vexpr $f1 / $f2 @scalarmode 1 @maxsize 4096"
 				}
 
 			}
@@ -120,8 +120,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 106.5, 159.0, 46.0, 22.0 ],
-					"text" : "zl.sum"
+					"patching_rect" : [ 106.5, 159.0, 141.0, 22.0 ],
+					"text" : "zl.sum @zlmaxsize 4096"
 				}
 
 			}
